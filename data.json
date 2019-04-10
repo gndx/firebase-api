@@ -1,0 +1,91 @@
+{
+  "data": {
+    "avatar": "https://s3.amazonaws.com/chewiekie/img/photo.jpg",
+    "name": "Melissa Walsh",
+    "profession": "FrontEnd Developer",
+    "bio": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "address": "Medellin, Colombia.",
+    "social": {
+      "0": {
+        "name": "facebook",
+        "url": "https://facebook.com/"
+      },
+      "1": {
+        "name": "twitter",
+        "url": "https://twitter.com/"
+      },
+      "2": {
+        "name": "github",
+        "url": "https://github.com/"
+      },
+      "3": {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/"
+      }
+    },
+    "experience": {
+      "0": {
+        "jobTitle": "Frontend",
+        "company": "PugStar",
+        "startDate": "Jan 2020",
+        "endDate": "Present",
+        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard."
+      },
+      "1": {
+        "jobTitle": "Backend",
+        "company": "CatStore",
+        "startDate": "Sept 2019",
+        "endDate": "Jan 2016",
+        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty."
+      }
+    },
+    "education": {
+      "0": {
+        "degree": "Atomic Master",
+        "institution": "MIT",
+        "startDate": "Jan 2018",
+        "endDate": "Jan 2017",
+        "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms"
+      },
+      "1": {
+        "degree": "Space Engineering",
+        "institution": "Harvard",
+        "startDate": "Jan 2017",
+        "endDate": "Decenber 2015",
+        "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. "
+      }
+    },
+    "certificate": {
+      "0": {
+        "name": "FrontEnd Developer",
+        "institution": "Platzi",
+        "date": "Jan 2021",
+        "description": "Hack up furballs try to jump onto window and fall while scratching at wall. "
+      },
+      "1": {
+        "name": "Backend Developer",
+        "institution": "Platzi",
+        "date": "Jan 2021",
+        "description": "Scratch at the door then walk away wack the mini furry mouse"
+      }
+    },
+    "skills": {
+      "0": {
+        "name": "HTML5",
+        "percentage": "75%"
+      },
+      "1": {
+        "name": "CSS",
+        "percentage": "25%"
+      },
+      "2": {
+        "name": "JavaScript",
+        "percentage": "55%"
+      },
+      "3": {
+        "name": "React",
+        "percentage": "90%"
+      }
+    }
+  }
+}
